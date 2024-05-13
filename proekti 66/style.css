@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "fonts1" ;
+    src: url(fonts/JacquesFrancoisShadow-Regular.ttf);
+}
+.box1 {
+    font-family:"fonts1";
+}
+@font-face {
+    font-family: "fonts2";
+    src: url(fonts2/OriginalSurfer-Regular.ttf);
+}
+.box2 {
+    font-family: "fonts2";
+}
+@font-face {
+    font-family: "fonts3";
+    src: url(fonts3/Play-Regular.ttf);
+}
+.box3 {
+    font-family: "fonts3";
+}
+
